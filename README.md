@@ -13,7 +13,7 @@ class nicolasmgh extends Person
 > Egresado Técnico en Programación.
 >> EEST N°3, Maq. Savio.
 
-> Con experiencia previa en entornos de desarrollo.
+> Con experiencia previa en desarrollo.
 
 ---
 
